@@ -24,14 +24,38 @@ Este proyecto es una aplicación de consola desarrollada en C# para importar, va
 - **Helpers/**: Validaciones y funciones auxiliares.
 - **Tests/**: Pruebas unitarias.
 
+## Requisitos
+
+- Tener instalado [.NET 6.0 SDK o superior](https://dotnet.microsoft.com/download)
+- Tener PostgreSQL instalado (o acceso a una base de datos compatible)
+- Los archivos XML requeridos deben estar en la carpeta `Archivos/`
+
+## Pasos para ejecutar la aplicación
+
+1. Clonar el repositorio y entrar al directorio del proyecto:
+   ```sh
+   git clone <url-del-repositorio>
+   cd TP_XML
+   ```
+
+2. Restaurar los paquetes:
+   ```sh
+   dotnet restore
+   ```
+
+3. Compilar y ejecutar la aplicación:
+   ```sh
+   dotnet run --project TP_XML
+   ```
+
+4. Seguir las instrucciones que aparecen en la consola.
+
 ## Pruebas
 
 Para ejecutar las pruebas unitarias:
-
 ```sh
 dotnet test
 ```
-
 
 ## Licencia
 
