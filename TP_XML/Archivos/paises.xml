@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<_expxml>
 		<pais>1</pais>
@@ -30,7 +30,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>996</pais>
-		<nombre>ANTIGUA¬†Y BARBUDA</nombre>
+		<nombre>ANTIGUA†Y BARBUDA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>54</pais>
@@ -90,11 +90,11 @@
 	</_expxml>
 	<_expxml>
 		<pais>18</pais>
-		<nombre>BASHKORTOST√ÅN</nombre>
+		<nombre>BASHKORTOST¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>20</pais>
-		<nombre>B√âLGICA</nombre>
+		<nombre>B…LGICA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>21</pais>
@@ -106,7 +106,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>23</pais>
-		<nombre>BEN√çN</nombre>
+		<nombre>BENÕN</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>24</pais>
@@ -162,15 +162,15 @@
 	</_expxml>
 	<_expxml>
 		<pais>38</pais>
-		<nombre>CAMER√öN</nombre>
+		<nombre>CAMER⁄N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>939</pais>
-		<nombre>CANAD√Å</nombre>
+		<nombre>CANAD¡</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>40</pais>
-		<nombre>CENTRO√ÅFRICA</nombre>
+		<nombre>CENTRO¡FRICA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>41</pais>
@@ -274,7 +274,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>65</pais>
-		<nombre>ESPA√ëA</nombre>
+		<nombre>ESPA—A</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>66</pais>
@@ -318,7 +318,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>76</pais>
-		<nombre>GAB√ìN</nombre>
+		<nombre>GAB”N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>77</pais>
@@ -382,7 +382,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>92</pais>
-		<nombre>HAIT√ç</nombre>
+		<nombre>HAITÕ</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>93</pais>
@@ -398,7 +398,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>96</pais>
-		<nombre>HUNGR√çA</nombre>
+		<nombre>HUNGRÕA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>97</pais>
@@ -414,7 +414,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>100</pais>
-		<nombre>IR√ÅN</nombre>
+		<nombre>IR¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>101</pais>
@@ -462,7 +462,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>110</pais>
-		<nombre>JAP√ìN</nombre>
+		<nombre>JAP”N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>111</pais>
@@ -514,7 +514,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>119</pais>
-		<nombre>L√çBANO</nombre>
+		<nombre>LÕBANO</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>987</pais>
@@ -590,7 +590,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>137</pais>
-		<nombre>M√âXICO</nombre>
+		<nombre>M…XICO</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>138</pais>
@@ -666,11 +666,11 @@
 	</_expxml>
 	<_expxml>
 		<pais>183</pais>
-		<nombre>OM√ÅN</nombre>
+		<nombre>OM¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>148</pais>
-		<nombre>PAKIST√ÅN</nombre>
+		<nombre>PAKIST¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>149</pais>
@@ -682,7 +682,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>151</pais>
-		<nombre>PANAM√Å</nombre>
+		<nombre>PANAM¡</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>8</pais>
@@ -690,7 +690,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>6</pais>
-		<nombre>PER√ö</nombre>
+		<nombre>PER⁄</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>156</pais>
@@ -706,7 +706,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>139</pais>
-		<nombre>PRINCIPADO DE M√ìNACO</nombre>
+		<nombre>PRINCIPADO DE M”NACO</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>157</pais>
@@ -726,7 +726,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>42</pais>
-		<nombre>REP√öBLICA CHECA</nombre>
+		<nombre>REP⁄BLICA CHECA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>159</pais>
@@ -734,11 +734,11 @@
 	</_expxml>
 	<_expxml>
 		<pais>103</pais>
-		<nombre>REP√öBLICA DE IRLANDA</nombre>
+		<nombre>REP⁄BLICA DE IRLANDA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>59</pais>
-		<nombre>REP√öBLICA DOMINICANA</nombre>
+		<nombre>REP⁄BLICA DOMINICANA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>220</pais>
@@ -790,7 +790,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>170</pais>
-		<nombre>SANTO TOM√â Y PRINCIPE</nombre>
+		<nombre>SANTO TOM… Y PRINCIPE</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>171</pais>
@@ -822,11 +822,11 @@
 	</_expxml>
 	<_expxml>
 		<pais>179</pais>
-		<nombre>SUD√ÅFRICA</nombre>
+		<nombre>SUD¡FRICA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>180</pais>
-		<nombre>SUD√ÅN</nombre>
+		<nombre>SUD¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>181</pais>
@@ -850,7 +850,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>186</pais>
-		<nombre>TADJIKIST√ÅN</nombre>
+		<nombre>TADJIKIST¡N</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>187</pais>
@@ -882,7 +882,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>190</pais>
-		<nombre>T√öNEZ</nombre>
+		<nombre>T⁄NEZ</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>223</pais>
@@ -890,7 +890,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>191</pais>
-		<nombre>TURQU√çA</nombre>
+		<nombre>TURQUÕA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>224</pais>
@@ -906,7 +906,7 @@
 	</_expxml>
 	<_expxml>
 		<pais>177</pais>
-		<nombre>UNI√ìN SOVI√âTICA</nombre>
+		<nombre>UNI”N SOVI…TICA</nombre>
 	</_expxml>
 	<_expxml>
 		<pais>10</pais>
