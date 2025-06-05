@@ -60,7 +60,7 @@ El programa creará automáticamente las tablas necesarias en la base de datos y
 
 ## Notas
 
-- Si el usuario, contraseña, base de datos o puerto son diferentes, edita la cadena de conexión en [`DatabaseSeeder.cs`](TP_XML/Services/DatabaseSeeder.cs).
+- Si el usuario, contraseña, base de datos o puerto son diferentes, editar la cadena de conexión en [`DatabaseSeeder.cs`](TP_XML/Services/DatabaseSeeder.cs).
 
 ## Pruebas
 
