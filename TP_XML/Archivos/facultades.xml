@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<_expxml>
 		<facultad>1</facultad>
@@ -6,7 +6,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>2</facultad>
-		<nombre>Facultad Regional Bah√≠a Blanca</nombre>
+		<nombre>Facultad Regional BahÌa Blanca</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>7</facultad>
@@ -18,7 +18,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>14</facultad>
-		<nombre>Facultad Regional Concepci√≥n del Uruguay</nombre>
+		<nombre>Facultad Regional ConcepciÛn del Uruguay</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>29</facultad>
@@ -26,11 +26,11 @@
 	</_expxml>
 	<_expxml>
 		<facultad>4</facultad>
-		<nombre>Facultad Regional C√≥rdoba</nombre>
+		<nombre>Facultad Regional CÛrdoba</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>28</facultad>
-		<nombre>Facultad Regional del Neuqu√©n</nombre>
+		<nombre>Facultad Regional del NeuquÈn</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>23</facultad>
@@ -62,7 +62,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>13</facultad>
-		<nombre>Facultad Regional Paran√°</nombre>
+		<nombre>Facultad Regional Paran·</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>20</facultad>
@@ -86,7 +86,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>9</facultad>
-		<nombre>Facultad Regional San Nicol√°s</nombre>
+		<nombre>Facultad Regional San Nicol·s</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>19</facultad>
@@ -110,7 +110,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>11</facultad>
-		<nombre>Facultad Regional Tucum√°n</nombre>
+		<nombre>Facultad Regional Tucum·n</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>24</facultad>
@@ -118,15 +118,15 @@
 	</_expxml>
 	<_expxml>
 		<facultad>17</facultad>
-		<nombre>Facultad Regional Villa Mar√≠a</nombre>
+		<nombre>Facultad Regional Villa MarÌa</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>35</facultad>
-		<nombre>Instituto Nac. Sup. del Profesorado T√©cnico</nombre>
+		<nombre>Instituto Nac. Sup. del Profesorado TÈcnico</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>26</facultad>
-		<nombre>No Usar - Unidad Acad√©mica Rawson</nombre>
+		<nombre>No Usar - Unidad AcadÈmica Rawson</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>16</facultad>
@@ -134,7 +134,7 @@
 	</_expxml>
 	<_expxml>
 		<facultad>31</facultad>
-		<nombre>No Usar * Unidad Acad√©mica Trelew</nombre>
+		<nombre>No Usar * Unidad AcadÈmica Trelew</nombre>
 	</_expxml>
 	<_expxml>
 		<facultad>33</facultad>

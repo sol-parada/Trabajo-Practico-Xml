@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<_expxml>
 		<grado>7</grado>
@@ -34,7 +34,7 @@
 	</_expxml>
 	<_expxml>
 		<grado>23</grado>
-		<nombre>Consejero Acad√©mico</nombre>
+		<nombre>Consejero AcadÈmico</nombre>
 	</_expxml>
 	<_expxml>
 		<grado>22</grado>
@@ -66,11 +66,11 @@
 	</_expxml>
 	<_expxml>
 		<grado>16</grado>
-		<nombre>Director de Unidad Acad√©mica</nombre>
+		<nombre>Director de Unidad AcadÈmica</nombre>
 	</_expxml>
 	<_expxml>
 		<grado>21</grado>
-		<nombre>Director de Unidad Docente B√°sica</nombre>
+		<nombre>Director de Unidad Docente B·sica</nombre>
 	</_expxml>
 	<_expxml>
 		<grado>32</grado>
@@ -90,7 +90,7 @@
 	</_expxml>
 	<_expxml>
 		<grado>36</grado>
-		<nombre>Jefe Trabajos Pr√°cticos de Laboratorio</nombre>
+		<nombre>Jefe Trabajos Pr·cticos de Laboratorio</nombre>
 	</_expxml>
 	<_expxml>
 		<grado>4</grado>
@@ -106,7 +106,7 @@
 	</_expxml>
 	<_expxml>
 		<grado>28</grado>
-		<nombre>Otras responsabilidades de Gesti√≥n</nombre>
+		<nombre>Otras responsabilidades de GestiÛn</nombre>
 	</_expxml>
 	<_expxml>
 		<grado>26</grado>

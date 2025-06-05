@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<_expxml>
 		<universida>1</universida>
@@ -18,7 +18,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>5</universida>
-		<nombre>Universidad Nacional de C贸rdoba</nombre>
+		<nombre>Universidad Nacional de C髍doba</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>6</universida>
@@ -26,7 +26,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>7</universida>
-		<nombre>Universidad Nacional de Entre R铆os</nombre>
+		<nombre>Universidad Nacional de Entre R韔s</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>8</universida>
@@ -54,7 +54,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>14</universida>
-		<nombre>Universidad Nacional de Luj谩n</nombre>
+		<nombre>Universidad Nacional de Luj醤</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>15</universida>
@@ -70,7 +70,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>18</universida>
-		<nombre>Universidad Nacional de R铆o Cuarto</nombre>
+		<nombre>Universidad Nacional de R韔 Cuarto</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>19</universida>
@@ -102,7 +102,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>26</universida>
-		<nombre>Universidad Nacional de Tucum谩n</nombre>
+		<nombre>Universidad Nacional de Tucum醤</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>27</universida>
@@ -110,7 +110,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>28</universida>
-		<nombre>Universidad Nacional General San Mart铆n</nombre>
+		<nombre>Universidad Nacional General San Mart韓</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>29</universida>
@@ -122,7 +122,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>31</universida>
-		<nombre>Universidad Cat贸lica Argentina - Santa Mar铆a de los Bs As</nombre>
+		<nombre>Universidad Cat髄ica Argentina - Santa Mar韆 de los Bs As</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>32</universida>
@@ -138,11 +138,11 @@
 	</_expxml>
 	<_expxml>
 		<universida>35</universida>
-		<nombre>Universidad Nacional de Lan煤s</nombre>
+		<nombre>Universidad Nacional de Lan鷖</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>36</universida>
-		<nombre>Universidad Aut贸noma de Entre R铆os</nombre>
+		<nombre>Universidad Aut髇oma de Entre R韔s</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>37</universida>
@@ -150,11 +150,11 @@
 	</_expxml>
 	<_expxml>
 		<universida>38</universida>
-		<nombre>Instituto Tecnol贸gico de Buenos Aires</nombre>
+		<nombre>Instituto Tecnol骻ico de Buenos Aires</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>39</universida>
-		<nombre>Universidad Aut贸noma de Occidente</nombre>
+		<nombre>Universidad Aut髇oma de Occidente</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>40</universida>
@@ -182,7 +182,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>58</universida>
-		<nombre>Universidad de Mor贸n</nombre>
+		<nombre>Universidad de Mor髇</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>59</universida>
@@ -190,7 +190,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>60</universida>
-		<nombre>Universidad Cat贸lica de C贸rdoba</nombre>
+		<nombre>Universidad Cat髄ica de C髍doba</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>61</universida>
@@ -210,19 +210,19 @@
 	</_expxml>
 	<_expxml>
 		<universida>65</universida>
-		<nombre>Universidad Nacional de M茅xico</nombre>
+		<nombre>Universidad Nacional de M閤ico</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>66</universida>
-		<nombre>Universidad Cat贸lica de Santiago del Estero</nombre>
+		<nombre>Universidad Cat髄ica de Santiago del Estero</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>67</universida>
-		<nombre>Universidad de la Rep煤blica del Uruguay</nombre>
+		<nombre>Universidad de la Rep鷅lica del Uruguay</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>68</universida>
-		<nombre>Universidad Cat贸lica de Buenos Aires</nombre>
+		<nombre>Universidad Cat髄ica de Buenos Aires</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>69</universida>
@@ -230,35 +230,35 @@
 	</_expxml>
 	<_expxml>
 		<universida>70</universida>
-		<nombre>Universidad Cat贸lica de Venezuela</nombre>
+		<nombre>Universidad Cat髄ica de Venezuela</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>71</universida>
-		<nombre>Universidad Nacional de Asunci贸n</nombre>
+		<nombre>Universidad Nacional de Asunci髇</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>72</universida>
-		<nombre>Universidad Cat贸lica A. Bello Venezuela</nombre>
+		<nombre>Universidad Cat髄ica A. Bello Venezuela</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>73</universida>
-		<nombre>Universidad Cat贸lica de Salta</nombre>
+		<nombre>Universidad Cat髄ica de Salta</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>74</universida>
-		<nombre>Instituto Universitario Aeron谩utico</nombre>
+		<nombre>Instituto Universitario Aeron醬tico</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>75</universida>
-		<nombre>Instituto Universitario de Estudios Navales y Mar铆timos</nombre>
+		<nombre>Instituto Universitario de Estudios Navales y Mar韙imos</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>76</universida>
-		<nombre>Universidad del Norte Santo Tom谩s de Aquino</nombre>
+		<nombre>Universidad del Norte Santo Tom醩 de Aquino</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>77</universida>
-		<nombre>Otra Instituci贸n</nombre>
+		<nombre>Otra Instituci髇</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>78</universida>
@@ -266,11 +266,11 @@
 	</_expxml>
 	<_expxml>
 		<universida>79</universida>
-		<nombre>Universidad Cat贸lica de La Plata</nombre>
+		<nombre>Universidad Cat髄ica de La Plata</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>80</universida>
-		<nombre>Universidad Nacional de Villa Mar铆a</nombre>
+		<nombre>Universidad Nacional de Villa Mar韆</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>81</universida>
@@ -278,7 +278,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>82</universida>
-		<nombre>Universidad de Valpara铆so</nombre>
+		<nombre>Universidad de Valpara韘o</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>83</universida>
@@ -290,35 +290,35 @@
 	</_expxml>
 	<_expxml>
 		<universida>90</universida>
-		<nombre>Escuela de Ingenier铆a Aeron谩utica de C贸rdoba</nombre>
+		<nombre>Escuela de Ingenier韆 Aeron醬tica de C髍doba</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>91</universida>
-		<nombre>Instituto Cat贸lico del Profesorado</nombre>
+		<nombre>Instituto Cat髄ico del Profesorado</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>92</universida>
-		<nombre>Instituto de Ense帽anza Superior</nombre>
+		<nombre>Instituto de Ense馻nza Superior</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>93</universida>
-		<nombre>Instituto de Ense帽anza Superior del Ej茅rcito</nombre>
+		<nombre>Instituto de Ense馻nza Superior del Ej閞cito</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>94</universida>
-		<nombre>Institulo Superior de Inform谩tica</nombre>
+		<nombre>Institulo Superior de Inform醫ica</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>95</universida>
-		<nombre>Instituto Universitario Aeron谩utico de C贸rdoba</nombre>
+		<nombre>Instituto Universitario Aeron醬tico de C髍doba</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>96</universida>
-		<nombre>Universidad del Ej茅rcito</nombre>
+		<nombre>Universidad del Ej閞cito</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>97</universida>
-		<nombre>Escuela Superior T茅cnica</nombre>
+		<nombre>Escuela Superior T閏nica</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>98</universida>
@@ -338,7 +338,7 @@
 	</_expxml>
 	<_expxml>
 		<universida>102</universida>
-		<nombre>Universidad Cat贸lica Boliviana San Pablo</nombre>
+		<nombre>Universidad Cat髄ica Boliviana San Pablo</nombre>
 	</_expxml>
 	<_expxml>
 		<universida>103</universida>
