@@ -98,3 +98,4 @@ C:\Users\solho\OneDrive\Escritorio\3er año\Desarrollo de Software\Trabajo Prác
 C:\Users\solho\OneDrive\Escritorio\3er año\Desarrollo de Software\Trabajo Práctico XML\TP_XML\obj\Debug\net8.0\TP_XML.pdb
 C:\Users\solho\OneDrive\Escritorio\3er año\Desarrollo de Software\Trabajo Práctico XML\TP_XML\obj\Debug\net8.0\TP_XML.genruntimeconfig.cache
 C:\Users\solho\OneDrive\Escritorio\3er año\Desarrollo de Software\Trabajo Práctico XML\TP_XML\obj\Debug\net8.0\ref\TP_XML.dll
+C:\Users\solho\OneDrive\Escritorio\3er año\Desarrollo de Software\Trabajo Práctico XML\TP_XML\obj\Debug\net8.0\TP_XML.sourcelink.json
