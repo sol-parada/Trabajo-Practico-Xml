@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  proyectosysacad:
+    image: postgres:latest  # Podés usar postgres:16, postgres:15, etc.
+    container_name: proyectosysacad
+    restart: unless-stopped
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: DEV_SYSACAD
+    volumes:
+      - sysacad_data:/var/lib/postgresql/data
+
+volumes:
+  sysacad_data:
