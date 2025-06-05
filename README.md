@@ -42,7 +42,7 @@ Este proyecto es una aplicación de consola desarrollada en C# para importar, va
 
 1. Clonar el repositorio y entrar al directorio:
    ```sh
-   git clone <url-del-repo>
+   git clone <https://github.com/sol-parada/Trabajo-Practico-Xml>
    cd TP_XML
    ```
 
